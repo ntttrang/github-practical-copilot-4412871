@@ -37,3 +37,9 @@ item:
     file: /audio/TFIT05.mp3
     duration: 00:00:22
     length: 352,587
+  - title: EP06-The Role of AI in Education
+    description: Dr. Emily White discusses how AI is transforming education by personalizing learning experiences, automating administrative tasks, and addressing challenges in accessibility and equity.
+    published: Thu, 16 Feb 2023 18:00:00 GMT
+    file: /audio/TFIT06.mp3
+    duration: 00:00:25
+    length: 400,123
